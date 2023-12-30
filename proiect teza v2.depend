@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651504087 source:c:\info\proiect teza v2\main.cpp
+	<bits/stdc++.h>
+	"numerem.h"
+
+1651337640 c:\info\proiect teza v2\numerem.h
+	<bits/stdc++.h>
+
+1651504016 source:c:\info\proiect teza v2\numerem.cpp
+	"numerem.h"
+
